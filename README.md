@@ -1,5 +1,5 @@
 # Contact-Book
-This is a GUI Contact Book desktop application made with PyQt5 module in python. you can viw contacts, add more contacts, delete or edit existing contacts.
+This is a GUI Contact Book desktop application made with PyQt5 module in python. you can view contacts, add more contacts, delete or edit existing contacts.
 
 dependies required to run the project.
 
